@@ -8,8 +8,9 @@ I acquired and validated my skills as a ***Web developer***.
 
 🌱 **Currently self-learning:**
 - Typescript
-- MongoDB
-- Python
+- React-js
+- Next.js
+- Node.js
 
 ### Github projects
 
