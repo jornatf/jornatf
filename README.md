@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I'm Jordan, internet geek and self-taught for more than 10 years.<br>
-I acquired and validated my skills as a ***Web developer***.
+I acquired and validated my skills as a ***Full-Stack Web Developer***.
 
 [![Website](https://img.shields.io/badge/Website-efefef?style=for-the-badge)](https://jordnat.dev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/jordan-nataf)
@@ -8,7 +8,7 @@ I acquired and validated my skills as a ***Web developer***.
 
 🌱 **Currently self-learning:**
 - Typescript
-- React-js
+- React.js
 - Next.js
 - Node.js
 
