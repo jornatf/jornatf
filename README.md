@@ -1,3 +1,5 @@
+![Cover image](./cover.png)
+
 ### Hi there 👋 
 I'm Jordan, internet geek and self-taught for more than 10 years.<br>
 I acquired and validated my skills as a ***Full-Stack Web Developer***.
