@@ -1,17 +1,26 @@
 ![Cover image](./cover.png)
 
 ### Hi there 👋 
-I'm Jordan, internet geek and self-taught for more than 10 years.<br>
-I acquired and validated my skills as a ***Full-Stack Web Developer***.
+
+```yaml
+name: Jordan Nataf
+located_in: Ile-De-France, France
+current_job: JavaScript / PHP Developer
+about:
+  - Internet geek
+  - Self-taught for more than 15 years
+main_skills:
+  - HTML / CSS
+  - PHP
+  - JavaScript / TypeScript
+```
 
 [![Website](https://img.shields.io/badge/Website-efefef?style=for-the-badge)](https://jordnat.dev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/jordan-nataf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jordnat)
 
 🌱 **Currently self-learning:**
-- Typescript
 - React.js
-- Next.js
 - Node.js
 
 ### Github projects
