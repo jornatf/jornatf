@@ -10,9 +10,9 @@ about:
   - Internet geek
   - Self-taught for more than 15 years
 main_skills:
+  - JavaScript / TypeScript
   - HTML / CSS
   - PHP
-  - JavaScript / TypeScript
 ```
 
 [![Website](https://img.shields.io/badge/Website-efefef?style=for-the-badge)](https://jordnat.dev)
